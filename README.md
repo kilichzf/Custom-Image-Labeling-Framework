@@ -60,3 +60,8 @@ The script is well commented (We hope) so you can easly understand how it works.
 * Label your images
 * Use the same method in the script to pull your labels into our training script
 
+# Contribution and Improvement
+
+Any improvements are welcome.
+
+
