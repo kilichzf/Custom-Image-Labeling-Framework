@@ -23,7 +23,7 @@ Tested on Ubuntu 18.04 and Python 3.7
 
 You need to do a little editing to adopt this project for your own custom labeling. We tried to comment the code as clearly as possible.
 
-I ll explain the workflow for our project and you can make the required edits for your own application.
+I'll explain the workflow for our project and you can make the required edits for your own application.
 This project uses CSV files to store labels. In our project we wanted to fit two second polynomials for lane tracking application. Output of our network (Thus our labels) are the coefficients of the polynomials. So we have a total of 6 coefficients as our labels. So an example entry in our CSV file would look like
 
 */path/to/image ; coeff1 ; coeff2 ; coeff3 ; coeff4 ; coeff5 ; coeff6*
