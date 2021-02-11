@@ -1,7 +1,6 @@
 import sys,os
 #### Enter the path of your dataset folder here
 root = "/My/Path/To/dataset/İmages/FOLDER"
-root = "/home/user/Desktop/Huzeyfe_KILIC/custom_labelig_framework/frames1"
 path = os.path.join(root)
 #Create CSV file
 csv = open('dataset.csv', 'w')
