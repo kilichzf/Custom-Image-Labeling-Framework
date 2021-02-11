@@ -1,4 +1,4 @@
-# Custom-Labeling-Framework
+# Custom-Image-Labeling-Framework
 A labeling framework to create custom labels for your projects!
 
 # What is this?
