@@ -33,6 +33,17 @@ You can see an example labeling operation in the picture below. Normally you wou
 
 ![Left lane labeled. Points for right line are set (Explained in the code)](labeled.png)
 
+How does it work?
+
+* Select a point by left mouse click
+* Press "s" to add this point to the list of points that will be used to fit a polynomial
+* Once you add more than 3 points to your list you can fit a polynomial.
+* If you press "a" points will be used to fit left polynomail coefficients
+* If you press "d" points will be used to fit right polynomail coefficients
+* Presing "z" resets both point list and polynomials
+* Press "e" to continue to next frame and "q" to reurn to previous frame
+* Press "c" to exit and save
+
 
 # Stap-1: Create an initial CSV file
 
